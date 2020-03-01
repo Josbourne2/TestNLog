@@ -13,7 +13,7 @@ namespace TestNLog.NetFramework
         {
             try
             {
-                throw new Exception("Ongeldig beslagverzoek aangetroffen: bijlagen ontbreken. Laat Mark, Giel of Bas het maar oplossen...");
+                throw new Exception("Doing stuff went terribly wrong..");
             }
             catch(Exception ex)
             {
